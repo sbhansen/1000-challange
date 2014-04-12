@@ -11,3 +11,6 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
+/.buildpath
+/.project
+/.settings
